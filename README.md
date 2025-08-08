@@ -18,4 +18,8 @@ This repository contains resources, code, and notes related to quantum walks and
 ## References
 - [WISER Quantum Walks Monte Carlo](https://www.thewiser.org/quantum-walks-monte-carlo)
 
+	- [Universal Statistical Simulator](https://arxiv.org/abs/2202.01735)
+	- [The Computational Complexity of Linear Optics](https://arxiv.org/pdf/1011.3245)
+	- [Quantum random walks - an introductory overview](https://arxiv.org/pdf/quant-ph/0303081)
+
 
