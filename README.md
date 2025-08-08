@@ -7,13 +7,15 @@ This repository contains resources, code, and notes related to quantum walks and
 
 ## Contents
 - Research papers and reference materials
-- Code implementations (to be added)
+- Code implementations
 - Project notes and documentation
 
 ## Getting Started
 1. Clone this repository.
 2. Review the reference materials and code.
-3. Contribute by adding your own notes or code related to quantum walks and Monte Carlo simulations.
+3. 
+4.
+5.
 
 ## References
 - [WISER Quantum Walks Monte Carlo](https://www.thewiser.org/quantum-walks-monte-carlo)
