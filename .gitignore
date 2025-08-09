@@ -37,6 +37,7 @@ venv/
 # Other common exclusions
 *.bak
 *.orig
+*.svg
 
 # Ignore PDF and image files
 *.pdf
