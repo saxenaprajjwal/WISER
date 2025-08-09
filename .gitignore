@@ -38,6 +38,7 @@ venv/
 *.bak
 *.orig
 
+# Ignore PDF and image files
 *.pdf
 *.jpeg
 *.jpg
