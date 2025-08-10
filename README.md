@@ -8,23 +8,16 @@ This repository contains resources, code, and notes related to quantum walks and
 ## Content 
 - TASK - 1: Reviewed the paper and the related resources to learn how to implement quantum Galton boards. Prepared a summary of understanding in a well-structured 2-pager document.
 - TASK - 2: Using the 1- and 2-layer Galton Box code as a starting point, write a general algorithm that generates a circuit for any number of layers to output a Gaussian distribution.
-             SDK used Qiksit (1.4.2)
+             SDK used -- Qiksit (1.4.2)
 - TASK - 3: Modified the function so that it obtains a different target distribution. Used a noiseless all-to-all sampler:
              Exponential distribution
              
 
-## Getting Started
-1. Clone this repository.
-2. Review the reference materials and code.
-3. 
-4.
-5.
-
 ## References
 - [WISER Quantum Walks Monte Carlo](https://www.thewiser.org/quantum-walks-monte-carlo)
 
-	- [Universal Statistical Simulator](https://arxiv.org/abs/2202.01735)
-	- [The Computational Complexity of Linear Optics](https://arxiv.org/pdf/1011.3245)
-	- [Quantum random walks - an introductory overview](https://arxiv.org/pdf/quant-ph/0303081)
-
-
+	-W. Feller, An Introduction to Probability Theory and Its Applications, Vol. 1, Wiley, 1968.
+    -J. Kempe, “Quantum random walks: An introductory overview,” Contemporary Physics, 44(4), 307–327 (2003).
+    -J. J. Carney and B. Varcoe, “The quantum Galton board: a new algorithm,” arXiv:2202.01735 (2022)
+    -A. Schreiber et al., “Photons walking the line: A quantum walk with adjustable coin operations,” Phys. Rev. Lett., 104(5), 050502 (2010).
+    -Y. Qin et al., “Integrated photonic Galton board,” Optica, 11(3), 311–319 (2024).
