@@ -39,7 +39,11 @@ Quantum walks have direct applications in quantum algorithms for search, samplin
 - [WISER Quantum Walks Monte Carlo](https://www.thewiser.org/quantum-walks-monte-carlo)
 
 	-W. Feller, An Introduction to Probability Theory and Its Applications, Vol. 1, Wiley, 1968.
+  
     -J. Kempe, “Quantum random walks: An introductory overview,” Contemporary Physics, 44(4), 307–327 (2003).
+  
     -J. J. Carney and B. Varcoe, “The quantum Galton board: a new algorithm,” arXiv:2202.01735 (2022)
+
     -A. Schreiber et al., “Photons walking the line: A quantum walk with adjustable coin operations,” Phys. Rev. Lett., 104(5), 050502 (2010).
+  
     -Y. Qin et al., “Integrated photonic Galton board,” Optica, 11(3), 311–319 (2024).
