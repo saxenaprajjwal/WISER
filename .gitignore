@@ -40,10 +40,13 @@ venv/
 *.svg
 
 # Ignore PDF and image files
-*.pdf
 *.jpeg
 *.jpg
 
 Untitled-1.ipynb
 Untitled-2.ipynb
 Untitled-3.ipynb
+
+
+*.pdf
+!WISER_Project_Report.pdf
